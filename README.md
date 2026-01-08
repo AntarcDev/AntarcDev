@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AntarcDev&fontSize=90&animation=twinkling&fontAlignY=35)
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AntarcDev&fontSize=90&animation=twinkling&fontAlignY=50)
 
 ### `// TODO: Write a better bio before deploying`
 
@@ -33,7 +33,7 @@ My workflow consists of:
 ### 📉 Time Wasted
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntarcDev&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AntarcDev&show_icons=true&theme=tokyonight&hide_title=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntarcDev&layout=compact&theme=tokyonight&hide_title=true" height="180" alt="languages graph" />
 </div>
 

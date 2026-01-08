@@ -30,14 +30,7 @@ My workflow consists of:
 
 ---
 
-### 📉 Time Wasted
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntarcDev&show_icons=true&theme=tokyonight&hide_title=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntarcDev&layout=compact&theme=tokyonight&hide_title=true" height="180" alt="languages graph" />
-</div>
-
----
 
 ### 🗑️ Current Abandonware
 

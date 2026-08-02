@@ -9,15 +9,13 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 ```
 
+<img src="./blue-archive-takanashi-hoshino.gif" width="220" alt="Takanashi Hoshino" />
+
 [![GitHub Stars](https://img.shields.io/github/stars/AntarcDev?style=flat-square&color=cba6f7&labelColor=1e1e2e)](https://github.com/AntarcDev)
 [![Public Repos](https://img.shields.io/badge/Repos-Public-a6e3a1?style=flat-square&labelColor=1e1e2e)](https://github.com/AntarcDev?tab=repositories)
 [![Void Linux](https://img.shields.io/badge/OS-Void_Linux-478061?style=flat-square&logo=voidlinux&logoColor=white&labelColor=1e1e2e)](https://github.com/AntarcDev/niri_config)
 
 </div>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="70%" valign="top">
 
 ```text
 antarc@void-box:~ $ fastfetch --profile
@@ -32,13 +30,6 @@ antarc@void-box:~ $ fastfetch --profile
  Repos       : Open Source, Homelab & Desktop Rices
 ─────────────────────────────────────────────────────────────────────────────
 ```
-
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="./blue-archive-takanashi-hoshino.gif" width="220" alt="Takanashi Hoshino" />
-    </td>
-  </tr>
-</table>
 
 ### ┌──[ [+] /home/antarc/about_me.txt ]
 
@@ -104,8 +95,8 @@ Quote          : "People don't realize they aren't able to choose whether or not
 ### ┌──[ [sys] vsv status github-activity ]
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AntarcDev&show_icons=true&theme=catppuccin&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntarcDev&layout=compact&theme=catppuccin&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=AntarcDev&show_icons=true&theme=catppuccin&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AntarcDev&theme=catppuccin&hide_border=true" />
 </p>
 
 </div>

@@ -25,16 +25,16 @@ antarc@void-box:~ $ fastfetch --profile
  WM / DE     : Niri (Wayland)
  Role        : Freshman Software Development Student
  Focus       : Low-Level Systems Programming, Linux & Hardware Tinkering
- Learning    : C / C++
- Shell       : zsh / bash
- Repos       : Open Source, Homelab & Desktop Rices
+ Learning    : C / Linux Kernel
+ Shell       : fish / bash
+ Repos       : Open Source, Homelab & Desktop Ricing
 ─────────────────────────────────────────────────────────────────────────────
 ```
 
 ### ┌──[ [+] /home/antarc/about_me.txt ]
 
 * [STATUS] Freshman studying Software Development at University.
-* [FOCUS] Learning C and C++ (pointers, memory layout, system calls, and data structures).
+* [FOCUS] Learning C (pointers, memory layout, system calls, and data structures).
 * [SYSTEMS] Void Linux daily driver. Tinkering with Niri WM configs ([niri_config](https://github.com/AntarcDev/niri_config)) and Plymouth boot themes ([lonely](https://github.com/AntarcDev/lonely)).
 * [HARDWARE] Getting into hardware tinkering, microcontrollers, and hardware hacking fundamentals.
 * [LAB] Running self-hosted services & Docker infrastructure ([ServerConfig](https://github.com/AntarcDev/ServerConfig)).
